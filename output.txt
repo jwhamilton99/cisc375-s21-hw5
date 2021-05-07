@@ -1,0 +1,11 @@
+Script started on 2021-05-06 21:15:28-04:00
+]0;justinwh@br013:~/CISC372/cisc375-s21-hw5[justinwh@r004 cisc375-s21-hw5]$ ./image pic4.g[Kjpg sharpen
+Took 1 seconds for convolution
+Took 7 seconds
+]0;justinwh@br013:~/CISC372/cisc375-s21-hw5[justinwh@r004 cisc375-s21-hw5]$ ./image pic4.jpg sharpen[1@-[1@o[1@m[1@p
+Took 2 seconds for convolution
+Took 7 seconds
+]0;justinwh@br013:~/CISC372/cisc375-s21-hw5[justinwh@r004 cisc375-s21-hw5]$ exit
+exit
+
+Script done on 2021-05-06 21:16:01-04:00
